@@ -1,1 +1,1 @@
-
+github was set-up and we created our folders for minutes. Tumbled upon some issues doing commits and merging pull requests to adjoin all members of the team onto one place. However, we were able to solve the issues by having a team member accept all requests and help with the setup process.
